@@ -1,0 +1,22 @@
+body{
+  background-color: #595b83;
+  color: #060930;
+}
+h2{
+  font-family: 'Oxygen', sans-serif;
+}
+.menu-item-details {
+  font-size: .9em;
+  font-style: italic;
+  margin: 15px;
+}
+.menu-item{
+  background-color: #e8e8e8;
+  margin:10px;
+  padding: 2vw;
+}
+.menu-title{
+  font-size: 1.8em;
+  margin: 0;
+  padding: 0;
+}
